@@ -1,1 +1,2 @@
 # Predicting-Cancer-Mortality
+The task of the project is to make a model based on 3047 samples, which will be based on available information on the number of diagnosed cancers, average income, percentage of the poor in the country, population, number of clinical studies, level of education, etc. able to predict the average number of cancer deaths per 100,000 population. Determine which factors are crucial and what are the differences in different parts of the world. 
